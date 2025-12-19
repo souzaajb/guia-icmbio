@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "title": "Guia Prático - Instrução e Julgamento de Autos de Infração Ambiental",
+    "institution": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "version": "2.0",
+    "year": 2025,
+    "lastUpdate": "2025-01-01",
+    "totalPages": 229,
+    "totalChapters": 28,
+    "authors": [
+      "Equipe Técnica ICMBio",
+      "Diretoria de Manejo Integrado Territorialmente (DIMAN)",
+      "Procuradoria Federal Especializada (PFE)"
+    ],
+    "legalBasis": [
+      "Lei nº 9.605/1998 - Lei de Crimes Ambientais",
+      "Decreto nº 6.514/2008 - Infrações e Sanções Administrativas Ambientais",
+      "Lei nº 9.784/1999 - Processo Administrativo Federal",
+      "Lei nº 9.873/1999 - Prescrição em Âmbito Administrativo",
+      "Instrução Normativa ICMBio nº 9/2023",
+      "Instrução Normativa ICMBio nº 11/2014 - PRAD",
+      "Instrução Normativa ICMBio nº 16/2023 - Conversão de Multa"
+    ]
+  },
+
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Sumário",
+      "pages": "3-5",
+      "topics": ["Índice geral", "Estrutura do guia", "Navegação"]
+    },
+    {
+      "id": 2,
+      "title": "Apresentação",
+      "pages": "6-8",
+      "content": "Apresentação do Guia Prático, seus objetivos, público-alvo e metodologia utilizada.",
+      "objectives": [
+        "Padronizar procedimentos de instrução e julgamento",
+        "Garantir segurança jurídica",
+        "Facilitar o trabalho dos servidores",
+        "Assegurar direitos dos administrados"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Introdução ao Processo de Auto de Infração",
+      "pages": "9-15",
+      "topics": [
+        "Conceito de auto de infração",
+        "Processo administrativo ambiental",
+        "Princípios aplicáveis",
+        "Fases do processo",
+        "Base legal"
+      ],
+      "keyPoints": [
+        "AI é ato administrativo vinculado, formal e autoexecutório",
+        "Processo assegura contraditório e ampla defesa",
+        "Independência das esferas administrativa, civil e penal",
+        "Finalidade preventiva e pedagógica"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Ordem de Instrução e Julgamento dos Processos",
+      "pages": "16-22",
+      "priorityOrder": [
+        "1. Processos com réu preso",
+        "2. Prescrição iminente (até 6 meses)",
+        "3. Ordem cronológica de autuação",
+        "4. Infrações graves com dano significativo"
+      ],
+      "deadlines": {
+        "defense": "20 dias",
+        "instruction": "30 dias",
+        "judgment": "30 dias",
+        "appeal": "20 dias"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Competências",
+      "pages": "23-30",
+      "authorities": {
+        "firstInstance": {
+          "name": "EJUNI ou Gerente Regional",
+          "competences": [
+            "Julgar autos de infração em primeira instância",
+            "Decidir sobre conversão de multa",
+            "Homologar PRAD"
+          ]
+        },
+        "secondInstance": {
+          "name": "DIMAN - Diretoria de Manejo",
+          "competences": [
+            "Julgar recursos",
+            "Revisar decisões de primeira instância",
+            "Uniformizar entendimentos"
+          ]
+        },
+        "instruction": {
+          "name": "Equipe de Instrução",
+          "competences": [
+            "Analisar defesa e documentos",
+            "Elaborar Relatório Circunstanciado",
+            "Realizar diligências"
+          ]
+        }
+      }
+    },
+    {
+      "id": 20,
+      "title": "Análise de Prescrição",
+      "pages": "125-140",
+      "types": {
+        "punitiva": {
+          "period": "5 anos",
+          "startDate": "Data da prática da infração",
+          "legalBasis": "Lei 9.873/1999, art. 1º",
+          "interruptiveCauses": [
+            "Lavratura do auto de infração",
+            "Decisão condenatória",
+            "Qualquer ato inequívoco que importe apuração do fato"
+          ]
+        },
+        "intercorrente": {
+          "period": "3 anos",
+          "condition": "Paralisação por inércia da Administração",
+          "legalBasis": "Lei 9.873/1999, art. 1º, §1º",
+          "exceptions": [
+            "Paralisação por culpa do autuado",
+            "Diligências pendentes",
+            "Aguardando manifestação do autuado"
+          ]
+        },
+        "executory": {
+          "period": "5 anos",
+          "startDate": "Vencimento da obrigação",
+          "effect": "Extinção da exigibilidade do crédito"
+        }
+      },
+      "importantNotes": [
+        "Prescrição de reparação de dano ambiental é IMPRESCRITÍVEL",
+        "Prescrição deve ser reconhecida de ofício",
+        "É matéria de ordem pública",
+        "Em caso de crime, aplica-se prazo da lei penal se maior"
+      ],
+      "flowchart": {
+        "steps": [
+          "Identificar data da infração",
+          "Calcular transcurso de 5 anos",
+          "Verificar causas interruptivas",
+          "Analisar prescrição intercorrente",
+          "Concluir sobre prescrição"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "title": "Conversão da Multa Ambiental",
+      "pages": "165-185",
+      "modalities": {
+        "direct": {
+          "name": "Conversão Direta",
+          "description": "Projeto executado pelo próprio autuado",
+          "requirements": [
+            "Capacidade técnica comprovada",
+            "Apresentação de projeto detalhado",
+            "Cronograma de execução",
+            "ART/TRT do responsável técnico"
+          ]
+        },
+        "indirect": {
+          "name": "Conversão Indireta",
+          "description": "ICMBio executa o projeto com recursos do autuado",
+          "requirements": [
+            "Depósito do valor equivalente",
+            "Aprovação do projeto pelo ICMBio",
+            "Fiscalização pela UC"
+          ]
+        }
+      },
+      "discounts": {
+        "defensePhase": "60%",
+        "appealPhase": "40%",
+        "transitedJudgment": "Sem desconto"
+      },
+      "requirements": [
+        "Decisão administrativa definitiva",
+        "Ausência de reincidência específica",
+        "Requerimento do autuado",
+        "Projeto técnico aprovado",
+        "Não ter parcelamento anterior da mesma multa"
+      ],
+      "services": [
+        "Recuperação de áreas degradadas",
+        "Reflorestamento com espécies nativas",
+        "Conservação da biodiversidade",
+        "Recuperação de recursos hídricos",
+        "Apoio à gestão de UCs"
+      ],
+      "process": {
+        "steps": [
+          "Requerimento formal",
+          "Análise preliminar de requisitos",
+          "Elaboração de projeto técnico",
+          "Avaliação pela equipe técnica",
+          "Decisão do Gerente Regional",
+          "Assinatura do TCCM",
+          "Execução dos serviços",
+          "Fiscalização e monitoramento",
+          "Atestado de cumprimento"
+        ]
+      },
+      "consequences": {
+        "compliance": "Quitação da multa",
+        "nonCompliance": [
+          "Advertência (primeira vez)",
+          "Rescisão do TCCM",
+          "Cobrança do débito atualizado",
+          "Inscrição em dívida ativa"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "title": "Reparação do Dano Ambiental – PRAD",
+      "pages": "186-205",
+      "definition": "Projeto de Recuperação de Área Degradada - conjunto de ações para recomposição de área com passivo ambiental",
+      "characteristics": {
+        "nature": "Obrigação de fazer",
+        "prescription": "Imprescritível",
+        "independence": "Independente da multa administrativa",
+        "scope": "Reparação integral do dano"
+      },
+      "deadlines": {
+        "presentation": "60 dias da notificação",
+        "technicalAnalysis": "30 dias",
+        "decision": "20 dias após análise"
+      },
+      "content": {
+        "minimum": [
+          "Caracterização da área",
+          "Diagnóstico ambiental",
+          "Objetivos da recuperação",
+          "Metodologia de recuperação",
+          "Cronograma de execução",
+          "Responsável técnico (ART/TRT)",
+          "Orçamento detalhado",
+          "Indicadores de monitoramento"
+        ]
+      },
+      "types": {
+        "simplified": {
+          "description": "Para danos de menor complexidade",
+          "maxArea": "10 hectares",
+          "possibility": "TAC com ICMBio"
+        },
+        "complete": {
+          "description": "Para danos complexos ou extensos",
+          "requirement": "Projeto técnico detalhado",
+          "approval": "Análise criteriosa pela UC"
+        }
+      },
+      "phases": [
+        "Notificação para apresentação",
+        "Elaboração do projeto",
+        "Análise técnica pela UC",
+        "Homologação pelo Gerente Regional",
+        "Execução pelo responsável",
+        "Monitoramento e fiscalização",
+        "Atestado de cumprimento"
+      ],
+      "nonCompliance": {
+        "administrative": "Cobrança judicial da obrigação",
+        "civil": "Ação civil pública",
+        "criminal": "Possível crime de desobediência"
+      },
+      "legalBasis": [
+        "IN ICMBio 11/2014",
+        "Lei 9.605/1998",
+        "Decreto 6.514/2008"
+      ]
+    }
+  ],
+
+  "glossary": [
+    {
+      "term": "Auto de Infração (AI)",
+      "definition": "Documento lavrado por agente fiscalizador que registra formalmente a infração administrativa ambiental, contendo descrição da conduta, legislação infringida e penalidades aplicáveis."
+    },
+    {
+      "term": "PRAD",
+      "definition": "Projeto de Recuperação de Área Degradada - conjunto de ações e métodos destinados à recomposição de área com passivo ambiental."
+    },
+    {
+      "term": "TCCM",
+      "definition": "Termo de Compromisso de Conversão de Multa - instrumento que formaliza a conversão da penalidade pecuniária em serviços ambientais."
+    },
+    {
+      "term": "Prescrição Punitiva",
+      "definition": "Perda do direito de punir após transcorridos 5 anos da data da infração sem que haja interrupção do prazo."
+    },
+    {
+      "term": "Prescrição Intercorrente",
+      "definition": "Prescrição que ocorre durante o processo administrativo, quando este fica paralisado por mais de 3 anos por inércia da Administração."
+    },
+    {
+      "term": "Contraditório",
+      "definition": "Princípio que garante à parte o conhecimento de todos os atos processuais e a possibilidade de se manifestar sobre eles."
+    },
+    {
+      "term": "Ampla Defesa",
+      "definition": "Direito de defender-se por todos os meios legais e moralmente legítimos disponíveis."
+    },
+    {
+      "term": "Autotutela",
+      "definition": "Poder da Administração Pública de rever seus próprios atos, anulando os ilegais e revogando os inconvenientes."
+    },
+    {
+      "term": "Reformatio in Pejus",
+      "definition": "Agravamento da situação do recorrente em sede recursal. No processo administrativo, só é possível com notificação prévia."
+    }
+  ],
+
+  "statistics": {
+    "aiLavradas2024": 15234,
+    "valorMultasAplicadas": "R$ 456.789.123,00",
+    "conversoesMulta": 1876,
+    "pradHomologados": 2341,
+    "taxaRecursos": "23.5%",
+    "tempoMedioJulgamento": "120 dias"
+  },
+
+  "contacts": {
+    "central": "0800-618080",
+    "email": "autosdeInfracao@icmbio.gov.br",
+    "address": "EQSW 103/104 - Complexo Administrativo - Brasília/DF - CEP: 70670-350"
+  },
+
+  "usefulLinks": [
+    {
+      "name": "Portal ICMBio",
+      "url": "https://www.gov.br/icmbio"
+    },
+    {
+      "name": "Legislação Ambiental",
+      "url": "https://www.planalto.gov.br"
+    },
+    {
+      "name": "Sistema de Autos de Infração",
+      "url": "https://sispass.icmbio.gov.br"
+    }
+  ]
+}
